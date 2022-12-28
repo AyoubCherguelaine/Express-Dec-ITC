@@ -1,3 +1,5 @@
+// run npm install before use this code
+
 const express = require('express');
 const db=  require("./db")
 var bodyParser = require('body-parser')
